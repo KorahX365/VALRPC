@@ -32,7 +32,7 @@
  
 ## Installation
 
- - Download the latest [release](https://github.com/korahx365/valrpc/releases/latest/download/valrpc.exe) and run it.
+ - Descarga la última [actualización](https://github.com/korahx365/valrpc/releases/latest/download/valrpc.exe) and run it.
 
  
  
